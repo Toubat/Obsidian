@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd478a83d408880b",
+        "id": "7a40b0c4f13927b4",
         "type": "tabs",
         "children": [
           {
-            "id": "6c1dd569592babd4",
+            "id": "6dca66937a71ca8d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "pdf-annotator",
               "state": {
-                "file": "pdfs/1.2.pdf"
+                "file": "Week 2/Internet Protocol, HTTP and RPC on HTTP.md"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "ded3ca1ec03d6996",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pdfs/1.2.pdf",
+                "file": "Week 2/Internet Protocol, HTTP and RPC on HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pdfs/1.2.pdf",
+                "file": "Week 2/Internet Protocol, HTTP and RPC on HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdfs/1.2.pdf"
+                "file": "Week 2/Internet Protocol, HTTP and RPC on HTTP.md"
               }
             }
           }
@@ -145,17 +146,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6c1dd569592babd4",
+  "active": "6dca66937a71ca8d",
   "lastOpenFiles": [
+    "pdfs/2.3.pdf",
+    "Week 2/Internet Protocol, HTTP and RPC on HTTP.md",
+    "Week 2/Communication - Single-node, Networked.md",
+    "Week 2/Cloud Computing Glue.md",
+    "pdfs/1.2.pdf",
     "Week 1/PaaS Provider - AWS Elastic Beanstalk.md",
     "Week 1/SaaS Example - Salesforce.md",
     "Week 1/Cloudonomics - Part 2.md",
     "Week 1/Cloudonomics - Part 1.md",
-    "Week 1/Big Data.md",
-    "Week 1/Cloud Computing Introduction.md",
-    "Week 1/Comparison of Cloud Service Tiers.md",
-    "Week 1/SaaS.md",
-    "Week 1/MBAAS.md",
-    "Week 1/PaaS Providers - Google App Engine.md"
+    "Week 1/Big Data.md"
   ]
 }
