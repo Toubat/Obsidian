@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "7a40b0c4f13927b4",
+        "id": "7d442d1559097855",
         "type": "tabs",
         "children": [
           {
-            "id": "6dca66937a71ca8d",
+            "id": "92583d722403bbc3",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Week 2/Internet Protocol, HTTP and RPC on HTTP.md"
+                "file": "Week 2/Communication - Single-node, Networked.md"
+              }
+            }
+          },
+          {
+            "id": "5ad5d79c95c3e2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "ded3ca1ec03d6996",
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 2/Internet Protocol, HTTP and RPC on HTTP.md",
+                "file": "Week 2/Communication - Single-node, Networked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 2/Internet Protocol, HTTP and RPC on HTTP.md",
+                "file": "Week 2/Communication - Single-node, Networked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 2/Internet Protocol, HTTP and RPC on HTTP.md"
+                "file": "Week 2/Communication - Single-node, Networked.md"
               }
             }
           }
@@ -146,17 +157,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6dca66937a71ca8d",
+  "active": "92583d722403bbc3",
   "lastOpenFiles": [
-    "pdfs/2.3.pdf",
-    "Week 2/Internet Protocol, HTTP and RPC on HTTP.md",
-    "Week 2/Communication - Single-node, Networked.md",
-    "Week 2/Cloud Computing Glue.md",
-    "pdfs/1.2.pdf",
-    "Week 1/PaaS Provider - AWS Elastic Beanstalk.md",
-    "Week 1/SaaS Example - Salesforce.md",
-    "Week 1/Cloudonomics - Part 2.md",
-    "Week 1/Cloudonomics - Part 1.md",
-    "Week 1/Big Data.md"
+    "Week 3/Serverless Landscape.md",
+    "Week 3/Serverless Compute, AWS Lambda.md",
+    "Week 3/Amazon S3 BLOB Storage.md",
+    "Week 3/DynamoDB - NoSQL.md",
+    "Week 3/Dropbox API.md",
+    "README.md",
+    "Week 2/Advanced VPC Gateways.md",
+    "Week 2/VPC Security and Firewalls.md",
+    "Week 2/VPC Gateways.md",
+    "Week 2/VPC - Virtual Private Clouds.md"
   ]
 }

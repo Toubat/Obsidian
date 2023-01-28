@@ -8,27 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fca699729d9f770",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdfs/01-intro.pdf"
-              }
-            }
-          },
-          {
-            "id": "6cd442013f0799a6",
+            "id": "2261aacfbf9103bd",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "01-intro.md"
+                "file": "02-ocaml-intro.md"
+              }
+            }
+          },
+          {
+            "id": "837de7d129bd91a4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "03-envs-and-closures.md"
+              }
+            }
+          },
+          {
+            "id": "2bdbe1f20a976f2c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "04-tuples-pattern-matching.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
+    "width": 278.5,
     "collapsed": true
   },
   "right": {
@@ -95,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-intro.md",
+                "file": "04-tuples-pattern-matching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-intro.md",
+                "file": "04-tuples-pattern-matching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-intro.md"
+                "file": "04-tuples-pattern-matching.md"
               }
             }
           }
@@ -156,8 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cd442013f0799a6",
+  "active": "2bdbe1f20a976f2c",
   "lastOpenFiles": [
+    "03-envs-and-closures.md",
+    "02-ocaml-intro.md",
+    "pdfs/02-ocaml-intro.pdf",
+    "01-intro.md",
     "pdfs/01-intro.pdf"
   ]
 }
