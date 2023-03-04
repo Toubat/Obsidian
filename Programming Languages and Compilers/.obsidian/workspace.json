@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "84db7f993308d9f8",
+        "id": "7e8fb553ae04dcf0",
         "type": "tabs",
         "children": [
           {
-            "id": "2261aacfbf9103bd",
+            "id": "bdae8aa5b46f9f6b",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "02-ocaml-intro.md"
-              }
-            }
-          },
-          {
-            "id": "837de7d129bd91a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "03-envs-and-closures.md"
-              }
-            }
-          },
-          {
-            "id": "2bdbe1f20a976f2c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "04-tuples-pattern-matching.md"
+                "file": "Midterm 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 271.51103591918945
   },
   "right": {
     "id": "f7e58384747bbfd4",
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-tuples-pattern-matching.md",
+                "file": "Midterm 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-tuples-pattern-matching.md",
+                "file": "Midterm 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-tuples-pattern-matching.md"
+                "file": "Midterm 1.md"
               }
             }
           }
@@ -166,12 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bdbe1f20a976f2c",
+  "active": "bdae8aa5b46f9f6b",
   "lastOpenFiles": [
-    "03-envs-and-closures.md",
-    "02-ocaml-intro.md",
-    "pdfs/02-ocaml-intro.pdf",
-    "01-intro.md",
-    "pdfs/01-intro.pdf"
+    "WA3 XC.md",
+    "Midterm 1.md",
+    "12-user-defined-datatypes.md",
+    "10-continuation-passing-style.md",
+    "pdfs/12-user-defined-datatypes.pdf",
+    "09-continuations.md",
+    "08-fold-tail-recursion-fold-left.md",
+    "05-evaluation-recursion.md",
+    "04-tuples-pattern-matching.md",
+    "03-envs-and-closures.md"
   ]
 }
